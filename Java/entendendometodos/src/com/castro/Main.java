@@ -26,7 +26,6 @@ public class Main {
         Emprestimo emprestimo = new Emprestimo();
         emprestimo.calcEmprestimo(1);
         emprestimo.calcEmprestimo(4);
-        emprestimo.calcEmprestimo(5);
         emprestimo.calcEmprestimo(8);
         emprestimo.calcEmprestimo(11);
         emprestimo.calcEmprestimo(0);
