@@ -1,4 +1,4 @@
-package com.castro;
+package com.castro.loops;
 
 import java.util.Scanner;
 
